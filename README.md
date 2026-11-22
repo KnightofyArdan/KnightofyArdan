@@ -23,12 +23,7 @@ Hi! I'm Dani. I'm a computer networking student at an Indonsian vocational high 
 
 ## 📊 Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knightofyardan&theme=tokyonight)<br/>
-![](https://github-readme-stats.vercel.app/api?username=knightofyardan&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=knightofyardan&theme=aura&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=knightofyardan&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=knightofyardan&limit=5&theme=aura&combine_all_yearly_contributions=true)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/knightofyardan/github-readme-quotes)
 
 > ***grow better together✨***
